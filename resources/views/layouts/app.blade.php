@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>SI Rekam Data Kendaraan</title>
+    <title>Data Kendaraan</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -24,7 +24,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    SI Rekam Data Kendaraan
+                    Data Kendaraan
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -80,7 +80,4 @@
         </main>
     </div>
 </body>
-<div class="ml-4 text-center text-sm text-liht-900 sm:text-right sm:ml-0">
-    Copyright © 2021 Umar Ulkhak. All Rights Reserved
-</div>
 </html>

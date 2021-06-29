@@ -38,7 +38,7 @@
             }
           }
       </script>
-    <input class="btn btn-outline-success" type="submit" value="Save"><br>
+    <input class="btn btn-primary" type="submit" value="Save"><br>
 </form>
 </div>
                 <div class="card-body">

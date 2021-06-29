@@ -12,7 +12,7 @@
 
 **Release date : 28 Juni 2021**
 
-> Sistem Informasi Rekam Data Kendaraan merupakan project open source yang dibuat oleh Umar Ulkhak. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+> Sistem Informasi Rekam Data Kendaraan merupakan project open source yang dibuat oleh Nara. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
 ---
 
@@ -56,5 +56,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
--   Copyright © 2021 Umar Ulkhak.
+-   Copyright © 2021 Nara.
 -   **Sistem Informasi Rekam Data Kendaraan is open-sourced software licensed.**

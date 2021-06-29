@@ -27,7 +27,7 @@
             <img id="previewImg" alt="Image View" src="{{ asset('images') }}/{{ $data->profileimage }}" style="max-width:90px;margin-top:20px;">
           </div>
         <input type="hidden" value="{{$data->id}}" id="id" name="id">
-        <input class="btn btn-outline-success" type="submit" value="Save"><br>
+        <input class="btn btn-success" type="submit" value="Save"><br>
 
         <script>
             function previewFile(input){
